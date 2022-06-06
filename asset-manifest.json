@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/americas/static/css/main.073c9b0a.css",
-    "main.js": "/americas/static/js/main.1ad87667.js",
+    "main.css": "/americas/static/css/main.8e34ef57.css",
+    "main.js": "/americas/static/js/main.126aef7a.js",
     "static/js/787.7edc035b.chunk.js": "/americas/static/js/787.7edc035b.chunk.js",
-    "static/media/logo.svg": "/americas/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/dfw_logo-white.svg": "/americas/static/media/dfw_logo-white.3d5d56f530078988ea0c9a65c8ae0d0e.svg",
+    "static/media/bannerImageAdjusted.JPG": "/americas/static/media/bannerImageAdjusted.60920a03c0959de96787.JPG",
+    "static/media/free-materials.png": "/americas/static/media/free-materials.318d7df87ce263526c44.png",
+    "static/media/get-involved.jpg": "/americas/static/media/get-involved.181ac2a514e3308c3498.jpg",
+    "static/media/drug-free-world-logo-text_en-americas.png": "/americas/static/media/drug-free-world-logo-text_en-americas.0785e0925d147666e623.png",
+    "static/media/antidrug-logo.png": "/americas/static/media/antidrug-logo.ea938ef3ce100896ae3f.png",
+    "static/media/pageEdgeTop.JPG": "/americas/static/media/pageEdgeTop.89aa7a2715bba611aab6.JPG",
+    "static/media/pageEdgeBottom.JPG": "/americas/static/media/pageEdgeBottom.ea0d39b5756252011f2b.JPG",
     "index.html": "/americas/index.html",
-    "main.073c9b0a.css.map": "/americas/static/css/main.073c9b0a.css.map",
-    "main.1ad87667.js.map": "/americas/static/js/main.1ad87667.js.map",
+    "main.8e34ef57.css.map": "/americas/static/css/main.8e34ef57.css.map",
+    "main.126aef7a.js.map": "/americas/static/js/main.126aef7a.js.map",
     "787.7edc035b.chunk.js.map": "/americas/static/js/787.7edc035b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ad87667.js"
+    "static/css/main.8e34ef57.css",
+    "static/js/main.126aef7a.js"
   ]
 }
