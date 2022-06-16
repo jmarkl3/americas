@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/americas/static/css/main.61f17f49.css",
-    "main.js": "/americas/static/js/main.126aef7a.js",
+    "main.css": "/americas/static/css/main.9c0443b9.css",
+    "main.js": "/americas/static/js/main.2d31b1f0.js",
     "static/js/787.7edc035b.chunk.js": "/americas/static/js/787.7edc035b.chunk.js",
     "static/media/dfw_logo-white.svg": "/americas/static/media/dfw_logo-white.3d5d56f530078988ea0c9a65c8ae0d0e.svg",
     "static/media/bannerImageAdjusted.JPG": "/americas/static/media/bannerImageAdjusted.60920a03c0959de96787.JPG",
     "static/media/free-materials.png": "/americas/static/media/free-materials.318d7df87ce263526c44.png",
     "static/media/get-involved.jpg": "/americas/static/media/get-involved.181ac2a514e3308c3498.jpg",
+    "static/media/pageEdgeTop.png": "/americas/static/media/pageEdgeTop.e27156a7202bf491b5f2.png",
+    "static/media/pageEdgeBottom.png": "/americas/static/media/pageEdgeBottom.3a65f871179bbd323d9c.png",
     "static/media/drug-free-world-logo-text_en-americas.png": "/americas/static/media/drug-free-world-logo-text_en-americas.0785e0925d147666e623.png",
     "static/media/antidrug-logo.png": "/americas/static/media/antidrug-logo.ea938ef3ce100896ae3f.png",
-    "static/media/pageEdgeTop.JPG": "/americas/static/media/pageEdgeTop.89aa7a2715bba611aab6.JPG",
-    "static/media/pageEdgeBottom.JPG": "/americas/static/media/pageEdgeBottom.ea0d39b5756252011f2b.JPG",
     "index.html": "/americas/index.html",
-    "main.61f17f49.css.map": "/americas/static/css/main.61f17f49.css.map",
-    "main.126aef7a.js.map": "/americas/static/js/main.126aef7a.js.map",
+    "main.9c0443b9.css.map": "/americas/static/css/main.9c0443b9.css.map",
+    "main.2d31b1f0.js.map": "/americas/static/js/main.2d31b1f0.js.map",
     "787.7edc035b.chunk.js.map": "/americas/static/js/787.7edc035b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61f17f49.css",
-    "static/js/main.126aef7a.js"
+    "static/css/main.9c0443b9.css",
+    "static/js/main.2d31b1f0.js"
   ]
 }
