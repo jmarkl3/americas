@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/americas/static/css/main.161f3e70.css",
+    "main.css": "/americas/static/css/main.4b5ed5ce.css",
     "main.js": "/americas/static/js/main.f82fc0f7.js",
     "static/js/787.7edc035b.chunk.js": "/americas/static/js/787.7edc035b.chunk.js",
     "static/media/dfw_logo-white.svg": "/americas/static/media/dfw_logo-white.3d5d56f530078988ea0c9a65c8ae0d0e.svg",
@@ -13,12 +13,12 @@
     "static/media/pageEdgeTop.JPG": "/americas/static/media/pageEdgeTop.89aa7a2715bba611aab6.JPG",
     "static/media/pageEdgeBottom.JPG": "/americas/static/media/pageEdgeBottom.ea0d39b5756252011f2b.JPG",
     "index.html": "/americas/index.html",
-    "main.161f3e70.css.map": "/americas/static/css/main.161f3e70.css.map",
+    "main.4b5ed5ce.css.map": "/americas/static/css/main.4b5ed5ce.css.map",
     "main.f82fc0f7.js.map": "/americas/static/js/main.f82fc0f7.js.map",
     "787.7edc035b.chunk.js.map": "/americas/static/js/787.7edc035b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.161f3e70.css",
+    "static/css/main.4b5ed5ce.css",
     "static/js/main.f82fc0f7.js"
   ]
 }
